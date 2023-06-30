@@ -1,3 +1,3 @@
 #testing-repositiory
 
-testowanie pliku readme
+testowanie pliku readme !
